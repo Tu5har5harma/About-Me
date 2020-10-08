@@ -1,0 +1,169 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+/* Navigation Bar */
+.navbar-brand {
+  font-family: 'Piedra', cursive;
+  font-weight: bold;
+  text-align: center;
+  font-size: 50px;
+}
+
+.nav-item {
+  padding: 0 18px;
+  text-align: left;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.colored-section {
+  background-color: #6c6c6c;
+}
+
+/* Containers */
+.container-fluid {
+  padding: 5% 10%;
+}
+
+/* What I have been Upto */
+.workp2 {
+  text-align: center;
+}
+
+.workp2 p {
+  font-size: 30px;
+  color: #000000;
+}
+
+.workp2 h3 {
+  font-size: 40px;
+}
+
+/* Websites Common */
+.websites h3 {
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 40px;
+}
+
+.des {
+  margin-top: 20px;
+  font-size: 30px;
+}
+
+.par {
+  font-family: 'Kaushan Script', cursive;
+  background-color: #7ea586;
+  background-position: center;
+  background-origin: ;
+  margin-top: 30px;
+  font-size: 35px;
+}
+
+.des1 {
+  margin: 40px 0;
+  font-size: 30px;
+}
+
+.full {
+  display: block;
+  color: #ffffff;
+  margin-top: 50px;
+  font-size: 30px;
+}
+
+.full span {
+  padding: 10px;
+  background-color: #461d67;
+}
+
+.full a:visited, .full a:link {
+  color: #ffffff;
+}
+
+.full a:hover {
+  color: #fff200;
+}
+
+.carousel-inner img {
+  width: 60%;
+  text-align: center;
+}
+
+/* Coffee */
+.coffee {
+  text-align: center;
+  background-color: #74e58b;
+  background-size: cover;
+  padding: 100px 0;
+}
+
+/* Dice */
+.dice {
+  text-align: center;
+  background-color: #0084ff;
+  background-size: cover;
+  padding: 100px 0;
+}
+
+/* IGN */
+.ign {
+  text-align: center;
+  background-color: #74e58b;
+  background-size: cover;
+  padding: 100px 0;
+}
+
+/* MoreWork */
+.morework {
+  font-size: 70px;
+  text-align: center;
+  background-color: #0084ff;
+  padding: 200px 0;
+}
+
+/* Footer Section */
+#footer {
+  background-color: #2c476f;
+}
+
+#footer p {
+  color: #000000;
+  font-size: 20px;
+}
+
+.social-icon {
+  color: #000;
+  margin: 20px 10px;
+}
+
+.social-icon:hover {
+  color: #cee500;
+}
+
+.sp0 {
+  padding-right: 1%;
+}
+
+.top {
+  color: #000;
+  float: right;
+}
+
+.top:hover {
+  color: #cee500;
+}
+
+@media (max-width: 1024px) {
+  #title {
+    text-align: center;
+  }
+
+  .title-image {
+    position: static;
+  }
+}
