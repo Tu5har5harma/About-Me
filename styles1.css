@@ -110,10 +110,18 @@ body {
   padding: 100px 0;
 }
 
+/* Drums */
+.drums{
+  text-align: center;
+  background-color: #74e58b;
+  background-size: cover;
+  padding: 100px 0;
+}
+
 /* IGN */
 .ign {
   text-align: center;
-  background-color: #74e58b;
+  background-color: #0084ff;
   background-size: cover;
   padding: 100px 0;
 }
@@ -122,7 +130,7 @@ body {
 .morework {
   font-size: 70px;
   text-align: center;
-  background-color: #0084ff;
+  background-color: #74e58b;
   padding: 200px 0;
 }
 
